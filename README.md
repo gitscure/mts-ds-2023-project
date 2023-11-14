@@ -1,2 +1,9 @@
-# mts-ds-2023-project
-Tasks from MTS Data Analyst School
+# MTS Data Analyst School 2023
+
+## Описание
+
+Решение заданий в рамках обучения Школы аналитиков данных МТС
+
+## Содержание
+
+1. [ДЗ по линейной алгебре, часть 1](./linalg/hw_linalg_1.ipynb)
