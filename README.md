@@ -12,3 +12,4 @@
 4. [ДЗ по ТВиМС, часть 2](./stat/hw_stat_2.ipynb)
 5. [ДЗ по ТВиМС, часть 3](./stat/hw_stat_3.ipynb)
 6. [ДЗ по ТВиМС, часть 4](./stat/hw_stat_4.ipynb)
+7. [ДЗ по ТВиМС, часть 5](./stat/hw_stat_5.ipynb)
