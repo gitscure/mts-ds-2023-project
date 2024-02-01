@@ -20,4 +20,4 @@
 
 ### Python
 
-1. [ДЗ по Python 4 (парсер)](./python/wikispiderproject/README.md)
+1. [ДЗ по Python 4 (парсер)](./python/wikispiderproject/)
