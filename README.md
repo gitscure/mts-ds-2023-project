@@ -18,6 +18,7 @@
 8. [ДЗ по ТВиМС, часть 6](./stat/hw_stat_6.ipynb)
 9. [ДЗ по оптимизации, часть 1](./optimization/hw_optimization_1.ipynb)
 10. [ДЗ по оптимизации, часть 2](./optimization/hw_optimization_2.ipynb)
+11. [ДЗ по оптимизации, часть 3](./optimization/hw_optimization_3.ipynb)
 
 ### Python
 
