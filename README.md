@@ -19,6 +19,7 @@
 9. [ДЗ по оптимизации, часть 1](./optimization/hw_optimization_1.ipynb)
 10. [ДЗ по оптимизации, часть 2](./optimization/hw_optimization_2.ipynb)
 11. [ДЗ по оптимизации, часть 3](./optimization/hw_optimization_3.ipynb)
+12. [ДЗ по линейной регрессии, часть 1](./regression/hw_regression_1.ipynb)
 
 ### Python
 
